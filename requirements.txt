@@ -7,3 +7,4 @@ sentence-transformers==2.1.0  # For sentence embeddings
 pymilvus==2.0.0  # For Milvus integration
 rank-bm25==0.2.1  # For BM25 retrieval
 streamlit==1.8.0  # For creating the Streamlit app
+PyMuPDF # for reading PDF files
