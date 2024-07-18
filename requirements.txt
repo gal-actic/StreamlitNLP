@@ -1,0 +1,9 @@
+beautifulsoup4==4.10.0  # For HTML parsing
+requests==2.26.0  # For making HTTP requests
+scikit-learn==0.24.2  # For TF-IDF vectorization and clustering
+transformers==4.11.3  # For BERT model and pipeline
+torch==1.10.0  # PyTorch version used by transformers
+sentence-transformers==2.1.0  # For sentence embeddings
+pymilvus==2.0.0  # For Milvus integration
+rank-bm25==0.2.1  # For BM25 retrieval
+streamlit==1.8.0  # For creating the Streamlit app
